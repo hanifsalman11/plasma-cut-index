@@ -31,5 +31,38 @@
     "pierce": 0.65,
     "kerf": 0.075,
     "date": "2026-11-11"
+  },
+  {
+    "plasma_name": "Hypertherm Powermax 85 SYNC (85A Heavy CNC) Cut Settings",
+    "slug": "hypertherm-powermax-85-sync-85a-heavy-cnc-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "Hypertherm Powermax 85 SYNC (85A Heavy CNC) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (38 IPM @ 85A), pierce delay (0.85s), kerf width (0.088\"), THC voltage (148V), 6.7 SCFM air dryer, and 240V 60A breaker for Hypertherm Powermax 85 SYNC (85A Heavy CNC) Cut Settings.",
+    "amps": 85,
+    "ipm": 38,
+    "pierce": 0.85,
+    "kerf": 0.088,
+    "date": "2026-11-11"
+  },
+  {
+    "plasma_name": "PrimeWeld CUT60 (60A Non-HF Pilot Arc CNC) Cut Settings",
+    "slug": "primeweld-cut60-60a-non-hf-pilot-arc-cnc-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "PrimeWeld CUT60 (60A Non-HF Pilot Arc CNC) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for PrimeWeld CUT60 (60A Non-HF Pilot Arc CNC) Cut Settings.",
+    "amps": 60,
+    "ipm": 58,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-11"
+  },
+  {
+    "plasma_name": "PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings",
+    "slug": "primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator",
+    "title": "PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (75 IPM @ 50A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings.",
+    "amps": 50,
+    "ipm": 75,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-11"
   }
 ]

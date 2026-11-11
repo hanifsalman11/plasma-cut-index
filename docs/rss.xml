@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (75 IPM @ 50A), pierce delay (0.4s), kerf width (0.062"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings.</description>
+    </item>
+    <item>
+      <title>PrimeWeld CUT60 (60A Non-HF Pilot Arc CNC) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut60-60a-non-hf-pilot-arc-cnc-cut-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut60-60a-non-hf-pilot-arc-cnc-cut-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for PrimeWeld CUT60 (60A Non-HF Pilot Arc CNC) Cut Settings.</description>
+    </item>
+    <item>
+      <title>Hypertherm Powermax 85 SYNC (85A Heavy CNC) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-85-sync-85a-heavy-cnc-cut-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-85-sync-85a-heavy-cnc-cut-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (38 IPM @ 85A), pierce delay (0.85s), kerf width (0.088"), THC voltage (148V), 6.7 SCFM air dryer, and 240V 60A breaker for Hypertherm Powermax 85 SYNC (85A Heavy CNC) Cut Settings.</description>
+    </item>
+    <item>
       <title>Hypertherm Powermax 65 SYNC (65A CNC Table) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-65-sync-65a-cnc-table-cut-settings-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-65-sync-65a-cnc-table-cut-settings-ipm-kerf-pierce-calculator.html</guid>
