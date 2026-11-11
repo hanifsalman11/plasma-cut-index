@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PlasmaCutIndex — CNC Plasma Cut Speed (IPM), Kerf Width, Pierce Delay & Breaker Calculator (2026)</title>
+  <meta name="description" content="Calculate exact CNC and handheld plasma cutter feed rate (IPM), SheetCam and Fusion 360 kerf width offset, pierce delay, THC arc voltage, desiccant air dryer CFM, and 240V breaker size for Hypertherm, PrimeWeld, Langmuir CrossFire, and YesWelder setups.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/plasma-cut-index/">
+  <link rel="alternate" type="application/rss+xml" title="PlasmaCutIndex RSS Feed" href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-cyan-500 text-zinc-950 px-2 py-0.5 rounded font-black">PLASMA</span>CutIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Pilot%2BArc%2BPlasma%2BCutter%2B60A%2B50A%2BCNC%2BDesiccant%2BAir%2BDryer%2BSystem&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop CNC Plasma Cutters, Air Dryers & Consumables on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">CNC Plasma Cut Speed (IPM), Kerf Width & Pierce Delay Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your plasma cutter model, CNC table, or metal thickness below to calculate G-code IPM feed rates, pierce delay seconds, kerf width compensation, desiccant air dryer CFM, and 240V breaker sizing.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search plasma cutter or thickness (e.g. Hypertherm 45 XP, PrimeWeld CUT60, Langmuir CrossFire, 1/4 Steel, 3/8 Plate...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-cyan-500">
+      </div>
+    </div>
+
+    <div id="plsGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="hypertherm-powermax-65-sync-65a-cnc-table-cut-settings-ipm-kerf-pierce-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-zinc-950 px-2.5 py-0.5 rounded">48 IPM @ 65A</span>
+            <span class="text-xs text-zinc-400">Pierce: 0.65s | 0.075" Kerf</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Hypertherm Powermax 65 SYNC (65A CNC Table) Cut Settings</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact CNC plasma cut speed (48 IPM @ 65A), pierce delay (0.65s), kerf width (0.075"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for Hypertherm Powermax 65 SYNC (65A CNC Table) Cut Settings.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate IPM, Kerf & Pierce Delay →</span>
+        </a>
+        <a href="hypertherm-powermax-30-xp-30-air-30a-dual-voltage-ipm-kerf-pierce-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-zinc-950 px-2.5 py-0.5 rounded">55 IPM @ 30A</span>
+            <span class="text-xs text-zinc-400">Pierce: 0.35s | 0.054" Kerf</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact CNC plasma cut speed (55 IPM @ 30A), pierce delay (0.35s), kerf width (0.054"), THC voltage (121V), 4.5 SCFM air dryer, and 240V 20A breaker for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate IPM, Kerf & Pierce Delay →</span>
+        </a>
+        <a href="hypertherm-powermax-45-xp-45a-cnc-handheld-cut-settings-ipm-kerf-pierce-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-cyan-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-cyan-500 text-zinc-950 px-2.5 py-0.5 rounded">72 IPM @ 45A</span>
+            <span class="text-xs text-zinc-400">Pierce: 0.4s | 0.062" Kerf</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-cyan-400 transition">Hypertherm Powermax 45 XP (45A CNC & Handheld) Cut Settings</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 30A breaker for Hypertherm Powermax 45 XP (45A CNC & Handheld) Cut Settings.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-cyan-400">Calculate IPM, Kerf & Pierce Delay →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 PlasmaCutIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('plsGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

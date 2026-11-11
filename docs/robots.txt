@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanifsalman11.github.io/plasma-cut-index/sitemap.xml

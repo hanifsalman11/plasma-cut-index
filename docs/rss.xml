@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlasmaCutIndex CNC Plasma Cut Speed & CAM Settings Database</title>
+    <link>https://hanifsalman11.github.io/plasma-cut-index/</link>
+    <description>Interactive CNC Plasma Cut Speed (IPM), Kerf Width, Pierce Delay & 240V Breaker Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Hypertherm Powermax 65 SYNC (65A CNC Table) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-65-sync-65a-cnc-table-cut-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-65-sync-65a-cnc-table-cut-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (48 IPM @ 65A), pierce delay (0.65s), kerf width (0.075"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for Hypertherm Powermax 65 SYNC (65A CNC Table) Cut Settings.</description>
+    </item>
+    <item>
+      <title>Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-30-xp-30-air-30a-dual-voltage-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-30-xp-30-air-30a-dual-voltage-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (55 IPM @ 30A), pierce delay (0.35s), kerf width (0.054"), THC voltage (121V), 4.5 SCFM air dryer, and 240V 20A breaker for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage).</description>
+    </item>
+    <item>
+      <title>Hypertherm Powermax 45 XP (45A CNC & Handheld) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-45-xp-45a-cnc-handheld-cut-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-45-xp-45a-cnc-handheld-cut-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 30A breaker for Hypertherm Powermax 45 XP (45A CNC & Handheld) Cut Settings.</description>
+    </item>
+  </channel>
+</rss>

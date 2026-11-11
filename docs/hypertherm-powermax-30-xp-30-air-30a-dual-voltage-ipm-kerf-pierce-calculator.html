@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+  <meta name="description" content="Calculate exact CNC plasma cut speed (55 IPM @ 30A), pierce delay (0.35s), kerf width (0.054"), THC voltage (121V), 4.5 SCFM air dryer, and 240V 20A breaker for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage).">
+  <link rel="canonical" href="https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-30-xp-30-air-30a-dual-voltage-ipm-kerf-pierce-calculator.html">
+  <meta property="og:title" content="Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)">
+  <meta property="og:description" content="Calculate exact CNC plasma cut speed (55 IPM @ 30A), pierce delay (0.35s), kerf width (0.054"), THC voltage (121V), 4.5 SCFM air dryer, and 240V 20A breaker for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage).">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://hanifsalman11.github.io/plasma-cut-index/hypertherm-powermax-30-xp-30-air-30a-dual-voltage-ipm-kerf-pierce-calculator.html">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "SoftwareApplication", "name": "Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) IPM Speed, Kerf & Pierce Calculator", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Web Browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What cut speed (IPM), pierce delay, and kerf width should I use for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage)?", "acceptedAnswer": {"@type": "Answer", "text": "For 0.188-inch metal at 30 Amps, program your CAM post-processor (Fusion 360 / SheetCam) to 55 IPM cut speed, 0.35 seconds pierce delay, 0.15\" pierce height, 0.06\" cut height, 0.054\" kerf width, and ~121V THC arc voltage."}}, {"@type": "Question", "name": "What size 240V breaker and wire gauge do I need for a 30A plasma cutter?", "acceptedAnswer": {"@type": "Answer", "text": "At 30A cutting output and ~121V arc voltage (85% inverter efficiency), the machine draws ~4.3 kW (17.9A at 240V). Under NEC Article 630 duty-cycle rules, wire a dedicated 20-Amp 2-pole circuit breaker with 10/2 AWG Copper (NEMA 6-50) to a NEMA 6-50R receptacle."}}, {"@type": "Question", "name": "How much air CFM and PSI does Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) require?", "acceptedAnswer": {"@type": "Answer", "text": "A 30A plasma torch requires 4.5 SCFM of continuous clean, dry air regulated to 65 PSI while flowing. Pair your compressor with a 0.01-micron coalescing filter and a color-changing silica desiccant dryer."}}]}]}</script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 antialiased min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 backdrop-blur sticky top-0 z-30">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <a href="index.html" class="text-lg font-black tracking-tight text-white flex items-center gap-2">
+        <span class="bg-cyan-500 text-zinc-950 px-2 py-0.5 rounded font-black">PLASMA</span>CutIndex
+      </a>
+      <a href="https://www.amazon.com/s?k=Pilot%2BArc%2BPlasma%2BCutter%2B60A%2B50A%2BCNC%2BDesiccant%2BAir%2BDryer%2BSystem&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop CNC Plasma Cutters, Air Dryers & Consumables on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-10 flex-1 w-full">
+    <div class="mb-8">
+      <div class="flex flex-wrap items-center gap-2.5 mb-3">
+        <span class="text-xs font-extrabold uppercase tracking-widest bg-cyan-500 text-zinc-950 px-3 py-1 rounded-full">55 IPM @ 30A (0.188" Metal)</span>
+        <span class="text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-3 py-1 rounded-full">Pierce: 0.35s | Kerf: 0.054" | THC: 121V</span>
+        <span class="text-xs font-semibold bg-zinc-800 text-zinc-300 px-3 py-1 rounded-full">Air: 4.5 SCFM @ 65 PSI | 240V 20A</span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-black text-white leading-tight">Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</h1>
+      <div class="mt-4 bg-zinc-900 border-l-4 border-cyan-500 p-4 rounded-r-xl text-sm text-zinc-200 leading-relaxed">
+        <strong>AWS CNC Plasma & NEC 630 Verdict:</strong> Cutting 0.188-inch metal at 30 Amps (Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage)) requires a CNC feed rate of 55 IPM (Inches Per Minute), a 0.35-second pierce delay at 0.15" pierce height before dropping to a 0.06" cut height, a CAM kerf width offset of 0.054", and a Torch Height Control (THC) target of ~121V DC. Supply the torch with 4.5 SCFM of moisture-free air at 65 PSI through a 4-stage desiccant dryer. Drawing 17.9A peak (4.3 kW) on 240V single-phase power, NEC Article 630 specifies a 20-Amp 2-pole circuit breaker wired with 10/2 AWG Copper (NEMA 6-50).
+      </div>
+    </div>
+
+    <!-- INTERACTIVE CNC PLASMA CUT SPEED (IPM), PIERCE DELAY, KERF & BREAKER CALCULATOR -->
+    <section class="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 sm:p-8 mb-12 shadow-2xl">
+      <h2 class="text-xl font-extrabold text-white mb-2">Interactive Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) IPM Speed, Kerf & Breaker Calculator</h2>
+      <p class="text-xs text-zinc-400 mb-6">Select your metal thickness, metal alloy type, and plasma torch amperage to compute exact SheetCam / Fusion 360 cut speed (IPM), pierce delay (sec), kerf width offset, THC target voltage, and 240V breaker size.</p>
+
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div class="space-y-5">
+          <div>
+            <label for="thickSelect" class="block text-xs font-medium text-zinc-400 mb-1">Material Gauge / Plate Thickness</label>
+            <select id="thickSelect" class="w-full bg-zinc-950 border border-zinc-700 rounded-lg px-3 py-2.5 text-sm font-bold text-white focus:outline-none focus:border-cyan-500">
+              <option value="0.060|205|0.10|0.048" >16 GA (0.060" / 1.5mm Sheet)</option>
+              <option value="0.075|180|0.15|0.052" >14 GA (0.075" / 1.9mm Sheet)</option>
+              <option value="0.105|150|0.20|0.055" >12 GA (0.105" / 2.7mm Sheet)</option>
+              <option value="0.135|130|0.25|0.058" >10 GA (0.135" / 1/8" Plate)</option>
+              <option value="0.188|98|0.30|0.060" selected>3/16" Plate (0.188" / 4.8mm)</option>
+              <option value="0.250|72|0.40|0.062" >1/4" Plate (0.250" / 6.4mm)</option>
+              <option value="0.375|48|0.55|0.068" >3/8" Plate (0.375" / 9.5mm)</option>
+              <option value="0.500|35|0.70|0.075" >1/2" Plate (0.500" / 12.7mm)</option>
+              <option value="0.750|22|1.00|0.088" >3/4" Heavy Plate (0.750" / 19mm)</option>
+            </select>
+          </div>
+
+          <div class="grid grid-cols-2 gap-3">
+            <div>
+              <label for="alloySelect" class="block text-xs font-medium text-zinc-400 mb-1">Metal Alloy Type</label>
+              <select id="alloySelect" class="w-full bg-zinc-950 border border-zinc-700 rounded-lg px-3 py-2 text-xs text-white focus:outline-none focus:border-cyan-500">
+                <option value="1.00" selected>Mild / Carbon Steel (1.0x IPM)</option>
+                <option value="0.85">304 / 316 Stainless Steel (0.85x IPM)</option>
+                <option value="1.22">5052 / 6061 Aluminum (1.22x IPM)</option>
+              </select>
+            </div>
+            <div>
+              <label for="ampSlider" class="block text-xs font-medium text-zinc-400 mb-1">Plasma Torch Output: <span id="ampVal" class="text-cyan-400 font-bold">30A</span></label>
+              <input id="ampSlider" type="range" min="25" max="85" step="5" value="30" class="w-full accent-cyan-500 cursor-pointer mt-1.5">
+            </div>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4">
+          <div class="bg-zinc-950 border border-cyan-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-cyan-400 font-bold">CNC Feed & Pierce</span>
+            <div class="text-2xl sm:text-3xl font-black text-white mt-1"><span id="ipmOut">55</span> <span class="text-xs font-normal text-zinc-400">IPM</span></div>
+            <p id="pierceKerfOut" class="text-xs text-cyan-400 font-semibold mt-1">Pierce: 0.35s | Kerf: 0.054"</p>
+          </div>
+
+          <div class="bg-zinc-950 border border-emerald-500/30 rounded-xl p-4">
+            <span class="text-xs uppercase text-emerald-400 font-bold">THC Volts & 240V Circuit</span>
+            <div id="thcOut" class="text-xl sm:text-2xl font-black text-emerald-400 mt-1">121V THC (0.06" Ht)</div>
+            <p id="brkAirOut" class="text-xs text-zinc-300 font-semibold mt-1">20A Breaker | 4.5 SCFM@65PSI</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-6 bg-cyan-950/40 border border-cyan-500/30 rounded-xl p-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div id="plsAdviceBanner" class="text-sm text-cyan-100 font-medium"></div>
+        <a id="dynamicPlsBtn" href="https://www.amazon.com/s?k=Pilot%2BArc%2BPlasma%2BCutter%2B60A%2B50A%2BCNC%2BDesiccant%2BAir%2BDryer%2BSystem&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="shrink-0 bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold px-4 py-2.5 rounded-lg text-xs uppercase tracking-wider transition">
+          Shop Matched Plasma Cutter & Dryer on Amazon →
+        </a>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">Complete Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) Cutter, Air Dryer & Cord Bundle</h2>
+        <span class="text-xs text-zinc-400">ISO 8573-1 Dry Air & NEC Article 630 Rated</span>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">30A CNC Pilot-Arc Plasma</span>
+              <span class="text-sm font-bold text-emerald-400">$349 - $1,899</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">30A–60A Non-HF Pilot Arc CNC-Ready Inverter Plasma Cutter (120V/240V Dual-Voltage w/ CNC Port)</h3>
+            <p class="text-xs text-zinc-400 mt-2 leading-relaxed">⚡ Non-High-Frequency (Non-HF) blowback pilot arc starts cleanly without scrambling USB CNC controller electronics.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Pilot+Arc+CNC+Plasma+Cutter+30A+60A+Non+HF+240V+PrimeWeld+Hypertherm&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">4.5 SCFM 4-Stage Air Dryer</span>
+              <span class="text-sm font-bold text-emerald-400">$119 - $269</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">4-Stage Compressed Air Drying System (Water Trap + 0.01µm Coalescing Filter + Desiccant Bead Dryer)</h3>
+            <p class="text-xs text-zinc-400 mt-2 leading-relaxed">⚡ Strips 99.99% of oil mist and water vapor at 65 PSI—tripling electrode and nozzle consumable life.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=4+Stage+3+Stage+Desiccant+Air+Dryer+System+Plasma+Cutter+0.01+Micron&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">240V 20A NEMA 6-50 Kit</span>
+              <span class="text-sm font-bold text-emerald-400">$69 - $169</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">Heavy-Duty 240V 50-Amp NEMA 6-50 Extension Cord (25ft–50ft 10/2 AWG) + Breaker & Outlet Box</h3>
+            <p class="text-xs text-zinc-400 mt-2 leading-relaxed">⚡ Handles 17.9A primary inverter draw with zero voltage sag so the plasma arc never sputters on thick plate.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=240V+50+Amp+NEMA+6-50+Extension+Cord+Welder+Plasma+Cutter+6+AWG+8+AWG&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div>
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-5 flex flex-col justify-between hover:border-cyan-500/60 transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 px-2.5 py-0.5 rounded">CNC Consumables & Table Fluid</span>
+              <span class="text-sm font-bold text-emerald-400">$64 - $219</span>
+            </div>
+            <h3 class="text-base font-bold text-white mt-2">CNC Shielded / FineCut Torch Consumables Kit (Electrodes + Nozzles) + Plasma Green Water Table Additive</h3>
+            <p class="text-xs text-zinc-400 mt-2 leading-relaxed">⚡ Maintains a razor-sharp 0.054" kerf width and prevents CNC water-table slats from rusting or foaming.</p>
+          </div>
+          <a href="https://www.amazon.com/s?k=Plasma+Cutter+Consumables+Kit+Electrodes+Nozzles+CNC+Water+Table+Additive&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="mt-5 block text-center bg-cyan-500 hover:bg-cyan-400 text-zinc-950 font-extrabold py-2.5 px-4 rounded-lg text-sm transition shadow-lg">
+            Check Price on Amazon →
+          </a>
+        </div></div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-4">CNC Plasma Cut Chart: Metal Thickness, IPM Speed, Pierce Delay & Kerf Width</h2>
+      <div class="overflow-x-auto bg-zinc-900 border border-zinc-800 rounded-xl">
+        <table class="w-full text-left border-collapse text-sm">
+          <thead>
+            <tr class="border-b border-zinc-800 bg-zinc-950/60 text-zinc-400 uppercase text-xs">
+              <th class="py-3.5 px-4">Mild Steel Thickness</th>
+              <th class="py-3.5 px-4">Torch Amps</th>
+              <th class="py-3.5 px-4 text-cyan-400">Cut Speed (IPM)</th>
+              <th class="py-3.5 px-4 text-emerald-400">Pierce Delay</th>
+              <th class="py-3.5 px-4">Kerf Width & THC Volts</th>
+            </tr>
+          </thead>
+          <tbody>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">16 GA (0.060" / 1.5mm)</td>
+          <td class="py-3 px-4 text-zinc-300">30A – 45A</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">195 – 225 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.10 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.048" Kerf | 115V THC</td>
+        </tr>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">10 GA (0.135" / 1/8")</td>
+          <td class="py-3 px-4 text-zinc-300">45A Output</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">125 – 140 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.25 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.058" Kerf | 118V THC</td>
+        </tr>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">3/16" Plate (0.188")</td>
+          <td class="py-3 px-4 text-zinc-300">45A – 50A</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">95 – 105 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.30 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.060" Kerf | 121V THC</td>
+        </tr>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">1/4" Plate (0.250")</td>
+          <td class="py-3 px-4 text-zinc-300">45A – 60A</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">70 – 85 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.40 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.062" Kerf | 124V THC</td>
+        </tr>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">3/8" Plate (0.375")</td>
+          <td class="py-3 px-4 text-zinc-300">60A – 65A</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">54 – 64 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.50 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.068" Kerf | 130V THC</td>
+        </tr>
+        <tr class="border-b border-zinc-800 hover:bg-zinc-800/40">
+          <td class="py-3 px-4 font-bold text-white">1/2" Plate (0.500")</td>
+          <td class="py-3 px-4 text-zinc-300">65A – 85A</td>
+          <td class="py-3 px-4 font-bold text-cyan-400">42 – 52 IPM</td>
+          <td class="py-3 px-4 text-emerald-400 font-semibold">0.65 sec</td>
+          <td class="py-3 px-4 text-xs text-zinc-300">0.075" Kerf | 136V THC</td>
+        </tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-extrabold text-white">CNC Plasma Non-HF Pilot Arc, Desiccant Dryer & Dross-Free Checklist</h2>
+        <span id="plsBadge" class="text-xs font-bold bg-zinc-800 text-cyan-400 px-3 py-1 rounded-full">0 / 4 Completed</span>
+      </div>
+      <div class="space-y-3">
+        <label class="flex items-start gap-3.5 bg-zinc-900 border border-zinc-800 rounded-xl p-4 cursor-pointer hover:border-zinc-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer pls-check">
+          <span class="text-sm text-zinc-200 leading-relaxed"><strong>CNC Plasma Step 1:</strong> Never use a High-Frequency (HF) Start plasma cutter on a CNC table: HF start arcs radiate thousands of volts of EMI noise that freeze USB ports and fry stepper drivers—always use a Non-HF Blowback Pilot Arc cutter (Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage)).</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-zinc-900 border border-zinc-800 rounded-xl p-4 cursor-pointer hover:border-zinc-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer pls-check">
+          <span class="text-sm text-zinc-200 leading-relaxed"><strong>CNC Plasma Step 2:</strong> Eliminate Low-Speed vs. High-Speed Dross (Slag): if you get thick, bubbly roll-over dross on the bottom edge that peels off easily with pliers, your speed is too SLOW (<44 IPM). If you get hard, thin bead dross welded to the bottom that requires heavy grinding, your speed is too FAST (>63 IPM) or your torch height is above 0.06".</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-zinc-900 border border-zinc-800 rounded-xl p-4 cursor-pointer hover:border-zinc-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer pls-check">
+          <span class="text-sm text-zinc-200 leading-relaxed"><strong>CNC Plasma Step 3:</strong> Set Pierce Height to 2.5x Cut Height (0.15" Pierce Height vs. 0.06" Cut Height): piercing at 0.06" blows molten metal straight up into the nozzle orifice, ruining a $12 copper tip on the very first pierce.</span>
+        </label>
+        <label class="flex items-start gap-3.5 bg-zinc-900 border border-zinc-800 rounded-xl p-4 cursor-pointer hover:border-zinc-700 transition">
+          <input type="checkbox" class="mt-1 w-5 h-5 accent-cyan-500 rounded cursor-pointer pls-check">
+          <span class="text-sm text-zinc-200 leading-relaxed"><strong>CNC Plasma Step 4:</strong> Install a Desiccant Silica-Gel Bead Air Dryer directly on the back of the plasma table: compressed air must meet ISO 8573-1 Class 1.2.1 dryness, because moisture in the plasma jet oxidizes the hafnium electrode pit in seconds.</span>
+        </label></div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-extrabold text-white mb-5">Frequently Asked Questions (Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage))</h2>
+      <div class="space-y-4"><div class='bg-zinc-900 border border-zinc-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>What cut speed (IPM), pierce delay, and kerf width should I use for Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage)?</h3><p class='text-sm text-zinc-300 leading-relaxed'>For 0.188-inch metal at 30 Amps, program your CAM post-processor (Fusion 360 / SheetCam) to 55 IPM cut speed, 0.35 seconds pierce delay, 0.15" pierce height, 0.06" cut height, 0.054" kerf width, and ~121V THC arc voltage.</p></div><div class='bg-zinc-900 border border-zinc-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>What size 240V breaker and wire gauge do I need for a 30A plasma cutter?</h3><p class='text-sm text-zinc-300 leading-relaxed'>At 30A cutting output and ~121V arc voltage (85% inverter efficiency), the machine draws ~4.3 kW (17.9A at 240V). Under NEC Article 630 duty-cycle rules, wire a dedicated 20-Amp 2-pole circuit breaker with 10/2 AWG Copper (NEMA 6-50) to a NEMA 6-50R receptacle.</p></div><div class='bg-zinc-900 border border-zinc-800 rounded-xl p-5'><h3 class='font-bold text-white text-base mb-2'>How much air CFM and PSI does Hypertherm Powermax 30 XP & 30 AIR (30A Dual-Voltage) require?</h3><p class='text-sm text-zinc-300 leading-relaxed'>A 30A plasma torch requires 4.5 SCFM of continuous clean, dry air regulated to 65 PSI while flowing. Pair your compressor with a 0.01-micron coalescing filter and a color-changing silica desiccant dryer.</p></div></div>
+    </section>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500 px-4">
+    <p>© 2026 PlasmaCutIndex. Independent CNC Plasma Cut Speed, Kerf & NEC 630 Electrical Database. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const amzDomain = "www.amazon.com";
+    const amzTag = "salmanrevie04-20";
+
+    const thickSelect = document.getElementById('thickSelect');
+    const alloySelect = document.getElementById('alloySelect');
+    const ampSlider = document.getElementById('ampSlider');
+    const ampVal = document.getElementById('ampVal');
+    const ipmOut = document.getElementById('ipmOut');
+    const pierceKerfOut = document.getElementById('pierceKerfOut');
+    const thcOut = document.getElementById('thcOut');
+    const brkAirOut = document.getElementById('brkAirOut');
+    const plsAdviceBanner = document.getElementById('plsAdviceBanner');
+    const dynamicPlsBtn = document.getElementById('dynamicPlsBtn');
+
+    function recalculatePlasma() {
+      const thkParts = thickSelect.value.split('|');
+      const thkIn = parseFloat(thkParts[0]);
+      const baseIpm45 = parseInt(thkParts[1], 10);
+      const basePierce = parseFloat(thkParts[2]);
+      const baseKerf = parseFloat(thkParts[3]);
+      const alloyMult = parseFloat(alloySelect.value);
+      const amps = parseInt(ampSlider.value, 10);
+
+      ampVal.textContent = `${amps}A`;
+
+      const calcIpm = Math.max(12, Math.round(baseIpm45 * alloyMult * (amps / 45.0)));
+      const calcPierce = Math.max(0.08, (basePierce * (45.0 / amps))).toFixed(2);
+      const calcKerf = (baseKerf + ((amps - 45) * 0.0004)).toFixed(3);
+      const thcVolts = Math.round(112.0 + (thkIn * 48.0));
+
+      const scfm = amps <= 35 ? "4.5" : (amps <= 50 ? "6.0" : "6.7");
+      const psi = amps <= 45 ? 65 : 75;
+      const brkSpec = amps <= 35 ? "30A (10 AWG)" : (amps <= 60 ? "50A (8/6 AWG)" : "60A (6 AWG)");
+
+      ipmOut.textContent = calcIpm;
+      pierceKerfOut.textContent = `Pierce: ${calcPierce}s | Kerf: ${calcKerf}"`;
+      thcOut.textContent = `${thcVolts}V THC (0.06" Ht)`;
+      brkAirOut.textContent = `${brkSpec} | ${scfm} SCFM@${psi}PSI`;
+
+      plsAdviceBanner.innerHTML = `⚡ <strong>SheetCam / Fusion 360 Spec:</strong> Set feed rate to <strong>${calcIpm} IPM</strong>, pierce delay to <strong>${calcPierce}s</strong> (0.15" pierce height / 0.06" cut height), and kerf width to <strong>${calcKerf}"</strong>. Pair your <strong>${amps}A Non-HF Pilot Arc Plasma Cutter</strong> with a <strong>4-Stage Desiccant Air Dryer (${scfm} SCFM @ ${psi} PSI)</strong> on a <strong>240V ${brkSpec} circuit</strong>.`;
+      dynamicPlsBtn.href = `https://${amzDomain}/s?k=Pilot+Arc+CNC+Plasma+Cutter+${amps}A+Desiccant+Air+Dryer+System&tag=${amzTag}`;
+    }
+
+    thickSelect.addEventListener('change', recalculatePlasma);
+    alloySelect.addEventListener('change', recalculatePlasma);
+    ampSlider.addEventListener('input', recalculatePlasma);
+    recalculatePlasma();
+
+    const checks = document.querySelectorAll('.pls-check');
+    const badge = document.getElementById('plsBadge');
+    checks.forEach(ch => {
+      ch.addEventListener('change', () => {
+        const done = Array.from(checks).filter(c => c.checked).length;
+        badge.textContent = `${done} / ${checks.length} Completed`;
+      });
+    });
+  </script>
+</body>
+</html>
