@@ -64,5 +64,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-11"
+  },
+  {
+    "plasma_name": "Langmuir CrossFire & CrossFire Pro CNC Plasma Table (45A–60A)",
+    "slug": "langmuir-crossfire-crossfire-pro-cnc-plasma-table-45a60a-ipm-kerf-pierce-calculator",
+    "title": "Langmuir CrossFire & CrossFire Pro CNC Plasma Table (45A–60A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (70 IPM @ 45A), pierce delay (0.45s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Langmuir CrossFire & CrossFire Pro CNC Plasma Table (45A–60A).",
+    "amps": 45,
+    "ipm": 70,
+    "pierce": 0.45,
+    "kerf": 0.062,
+    "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "Langmuir CrossFire XR 4x8 CNC Plasma Table (65A–85A)",
+    "slug": "langmuir-crossfire-xr-4x8-cnc-plasma-table-65a85a-ipm-kerf-pierce-calculator",
+    "title": "Langmuir CrossFire XR 4x8 CNC Plasma Table (65A–85A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (46 IPM @ 65A), pierce delay (0.65s), kerf width (0.074\"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for Langmuir CrossFire XR 4x8 CNC Plasma Table (65A–85A).",
+    "amps": 65,
+    "ipm": 46,
+    "pierce": 0.65,
+    "kerf": 0.074,
+    "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "ArcDroid Robotic CNC Plasma Arm (45A–60A Non-HF) Settings",
+    "slug": "arcdroid-robotic-cnc-plasma-arm-45a60a-non-hf-settings-ipm-kerf-pierce-calculator",
+    "title": "ArcDroid Robotic CNC Plasma Arm (45A–60A Non-HF) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (105 IPM @ 45A), pierce delay (0.3s), kerf width (0.058\"), THC voltage (121V), 6.0 SCFM air dryer, and 240V 40A breaker for ArcDroid Robotic CNC Plasma Arm (45A–60A Non-HF) Settings.",
+    "amps": 45,
+    "ipm": 105,
+    "pierce": 0.3,
+    "kerf": 0.058,
+    "date": "2026-11-12"
   }
 ]

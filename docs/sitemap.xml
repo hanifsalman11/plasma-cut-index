@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,6 +39,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator.html</loc>
     <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-crossfire-pro-cnc-plasma-table-45a60a-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-xr-4x8-cnc-plasma-table-65a85a-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/arcdroid-robotic-cnc-plasma-arm-45a60a-non-hf-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

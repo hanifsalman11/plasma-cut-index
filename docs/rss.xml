@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>ArcDroid Robotic CNC Plasma Arm (45A–60A Non-HF) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/arcdroid-robotic-cnc-plasma-arm-45a60a-non-hf-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/arcdroid-robotic-cnc-plasma-arm-45a60a-non-hf-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (105 IPM @ 45A), pierce delay (0.3s), kerf width (0.058"), THC voltage (121V), 6.0 SCFM air dryer, and 240V 40A breaker for ArcDroid Robotic CNC Plasma Arm (45A–60A Non-HF) Settings.</description>
+    </item>
+    <item>
+      <title>Langmuir CrossFire XR 4x8 CNC Plasma Table (65A–85A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-xr-4x8-cnc-plasma-table-65a85a-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-xr-4x8-cnc-plasma-table-65a85a-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (46 IPM @ 65A), pierce delay (0.65s), kerf width (0.074"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for Langmuir CrossFire XR 4x8 CNC Plasma Table (65A–85A).</description>
+    </item>
+    <item>
+      <title>Langmuir CrossFire & CrossFire Pro CNC Plasma Table (45A–60A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-crossfire-pro-cnc-plasma-table-45a60a-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/langmuir-crossfire-crossfire-pro-cnc-plasma-table-45a60a-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (70 IPM @ 45A), pierce delay (0.45s), kerf width (0.062"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Langmuir CrossFire & CrossFire Pro CNC Plasma Table (45A–60A).</description>
+    </item>
+    <item>
       <title>PrimeWeld CUT50DP (50A Dual-Voltage Pilot Arc) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/primeweld-cut50dp-50a-dual-voltage-pilot-arc-settings-ipm-kerf-pierce-calculator.html</guid>
