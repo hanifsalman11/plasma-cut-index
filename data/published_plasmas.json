@@ -97,5 +97,38 @@
     "pierce": 0.3,
     "kerf": 0.058,
     "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "YesWelder CUT-55DS Pro & CUT-65DS Non-HF Pilot Arc Settings",
+    "slug": "yeswelder-cut-55ds-pro-cut-65ds-non-hf-pilot-arc-settings-ipm-kerf-pierce-calculator",
+    "title": "YesWelder CUT-55DS Pro & CUT-65DS Non-HF Pilot Arc Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (44 IPM @ 65A), pierce delay (0.65s), kerf width (0.074\"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for YesWelder CUT-55DS Pro & CUT-65DS Non-HF Pilot Arc Settings.",
+    "amps": 65,
+    "ipm": 44,
+    "pierce": 0.65,
+    "kerf": 0.074,
+    "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "BestArc BTC500DP & BTC650DP (50A/65A CNC Port) Cut Settings",
+    "slug": "bestarc-btc500dp-btc650dp-50a65a-cnc-port-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "BestArc BTC500DP & BTC650DP (50A/65A CNC Port) Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 50A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for BestArc BTC500DP & BTC650DP (50A/65A CNC Port) Cut Settings.",
+    "amps": 50,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "Miller Spectrum 625 X-TREME (40A) & 875 Auto-Line (60A)",
+    "slug": "miller-spectrum-625-x-treme-40a-875-auto-line-60a-ipm-kerf-pierce-calculator",
+    "title": "Miller Spectrum 625 X-TREME (40A) & 875 Auto-Line (60A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (56 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for Miller Spectrum 625 X-TREME (40A) & 875 Auto-Line (60A).",
+    "amps": 60,
+    "ipm": 56,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-12"
   }
 ]
