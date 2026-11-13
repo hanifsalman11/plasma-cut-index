@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,6 +75,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/miller-spectrum-625-x-treme-40a-875-auto-line-60a-ipm-kerf-pierce-calculator.html</loc>
     <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/hobart-airforce-40i-40a-240v-27i-plasma-cutter-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/lincoln-electric-tomahawk-625-40a-1000-60a-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/everlast-powerplasma-50s-60s-80s-cnc-pilot-arc-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

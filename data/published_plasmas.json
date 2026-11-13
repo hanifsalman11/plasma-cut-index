@@ -130,5 +130,38 @@
     "pierce": 0.5,
     "kerf": 0.068,
     "date": "2026-11-12"
+  },
+  {
+    "plasma_name": "Hobart AirForce 40i (40A 240V) & 27i Plasma Cutter Settings",
+    "slug": "hobart-airforce-40i-40a-240v-27i-plasma-cutter-settings-ipm-kerf-pierce-calculator",
+    "title": "Hobart AirForce 40i (40A 240V) & 27i Plasma Cutter Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (62 IPM @ 40A), pierce delay (0.45s), kerf width (0.06\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 30A breaker for Hobart AirForce 40i (40A 240V) & 27i Plasma Cutter Settings.",
+    "amps": 40,
+    "ipm": 62,
+    "pierce": 0.45,
+    "kerf": 0.06,
+    "date": "2026-11-13"
+  },
+  {
+    "plasma_name": "Lincoln Electric Tomahawk 625 (40A) & 1000 (60A) Settings",
+    "slug": "lincoln-electric-tomahawk-625-40a-1000-60a-settings-ipm-kerf-pierce-calculator",
+    "title": "Lincoln Electric Tomahawk 625 (40A) & 1000 (60A) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (56 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for Lincoln Electric Tomahawk 625 (40A) & 1000 (60A) Settings.",
+    "amps": 60,
+    "ipm": 56,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-13"
+  },
+  {
+    "plasma_name": "Everlast PowerPlasma 50S / 60S / 80S CNC Pilot Arc Settings",
+    "slug": "everlast-powerplasma-50s-60s-80s-cnc-pilot-arc-settings-ipm-kerf-pierce-calculator",
+    "title": "Everlast PowerPlasma 50S / 60S / 80S CNC Pilot Arc Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for Everlast PowerPlasma 50S / 60S / 80S CNC Pilot Arc Settings.",
+    "amps": 60,
+    "ipm": 58,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-13"
   }
 ]

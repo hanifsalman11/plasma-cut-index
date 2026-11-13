@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Everlast PowerPlasma 50S / 60S / 80S CNC Pilot Arc Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/everlast-powerplasma-50s-60s-80s-cnc-pilot-arc-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/everlast-powerplasma-50s-60s-80s-cnc-pilot-arc-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for Everlast PowerPlasma 50S / 60S / 80S CNC Pilot Arc Settings.</description>
+    </item>
+    <item>
+      <title>Lincoln Electric Tomahawk 625 (40A) & 1000 (60A) Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/lincoln-electric-tomahawk-625-40a-1000-60a-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/lincoln-electric-tomahawk-625-40a-1000-60a-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (56 IPM @ 60A), pierce delay (0.5s), kerf width (0.068"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for Lincoln Electric Tomahawk 625 (40A) & 1000 (60A) Settings.</description>
+    </item>
+    <item>
+      <title>Hobart AirForce 40i (40A 240V) & 27i Plasma Cutter Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/hobart-airforce-40i-40a-240v-27i-plasma-cutter-settings-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/hobart-airforce-40i-40a-240v-27i-plasma-cutter-settings-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (62 IPM @ 40A), pierce delay (0.45s), kerf width (0.06"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 30A breaker for Hobart AirForce 40i (40A 240V) & 27i Plasma Cutter Settings.</description>
+    </item>
+    <item>
       <title>Miller Spectrum 625 X-TREME (40A) & 875 Auto-Line (60A) Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/plasma-cut-index/miller-spectrum-625-x-treme-40a-875-auto-line-60a-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/miller-spectrum-625-x-treme-40a-875-auto-line-60a-ipm-kerf-pierce-calculator.html</guid>
