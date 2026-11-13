@@ -96,4 +96,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/lotos-ltp5500d-ltp7500d-cnc-non-hf-pilot-arc-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/16-gauge-0060-sheet-metal-cnc-plasma-ipm-finecut-kerf-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/14-gauge-0075-mild-steel-cnc-plasma-ipm-pierce-delay-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
