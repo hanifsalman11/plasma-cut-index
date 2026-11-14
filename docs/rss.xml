@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>1/4-Inch 6061 Aluminum Plate CNC Plasma Speed & THC Volts Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/14-inch-6061-aluminum-plate-cnc-plasma-speed-thc-volts-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/14-inch-6061-aluminum-plate-cnc-plasma-speed-thc-volts-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (88 IPM @ 45A), pierce delay (0.35s), kerf width (0.065"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for 1/4-Inch 6061 Aluminum Plate CNC Plasma Speed & THC Volts.</description>
+    </item>
+    <item>
+      <title>1/4-Inch 304 Stainless Steel CNC Plasma Speed & Nitrogen/Air Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/14-inch-304-stainless-steel-cnc-plasma-speed-nitrogenair-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/14-inch-304-stainless-steel-cnc-plasma-speed-nitrogenair-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (62 IPM @ 45A), pierce delay (0.45s), kerf width (0.064"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for 1/4-Inch 304 Stainless Steel CNC Plasma Speed & Nitrogen/Air.</description>
+    </item>
+    <item>
+      <title>3/4-Inch (0.750") Heavy Plate Plasma Severance & Breaker Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/34-inch-0750-heavy-plate-plasma-severance-breaker-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/34-inch-0750-heavy-plate-plasma-severance-breaker-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (34 IPM @ 85A), pierce delay (1.0s), kerf width (0.088"), THC voltage (148V), 6.7 SCFM air dryer, and 240V 60A breaker for 3/4-Inch (0.750") Heavy Plate Plasma Severance & Breaker.</description>
+    </item>
+    <item>
       <title>5/8-Inch (0.625") Steel Plate Max CNC Pierce & Edge Start Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/plasma-cut-index/58-inch-0625-steel-plate-max-cnc-pierce-edge-start-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/58-inch-0625-steel-plate-max-cnc-pierce-edge-start-ipm-kerf-pierce-calculator.html</guid>
