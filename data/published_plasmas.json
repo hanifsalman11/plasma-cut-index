@@ -196,5 +196,38 @@
     "pierce": 0.15,
     "kerf": 0.052,
     "date": "2026-11-13"
+  },
+  {
+    "plasma_name": "10-Gauge (0.135\" / 1/8\") Mild Steel CNC Plasma Cut Settings",
+    "slug": "10-gauge-0135-18-mild-steel-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "10-Gauge (0.135\" / 1/8\") Mild Steel CNC Plasma Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (135 IPM @ 45A), pierce delay (0.25s), kerf width (0.058\"), THC voltage (118V), 6.0 SCFM air dryer, and 240V 40A breaker for 10-Gauge (0.135\" / 1/8\") Mild Steel CNC Plasma Cut Settings.",
+    "amps": 45,
+    "ipm": 135,
+    "pierce": 0.25,
+    "kerf": 0.058,
+    "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "3/16-Inch (0.188\") Mild Steel Plate CNC Plasma Cut Settings",
+    "slug": "316-inch-0188-mild-steel-plate-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "3/16-Inch (0.188\") Mild Steel Plate CNC Plasma Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (100 IPM @ 45A), pierce delay (0.3s), kerf width (0.06\"), THC voltage (121V), 6.0 SCFM air dryer, and 240V 40A breaker for 3/16-Inch (0.188\") Mild Steel Plate CNC Plasma Cut Settings.",
+    "amps": 45,
+    "ipm": 100,
+    "pierce": 0.3,
+    "kerf": 0.06,
+    "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "1/4-Inch (0.250\") Mild Steel Plate CNC Plasma Cut Settings",
+    "slug": "14-inch-0250-mild-steel-plate-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "1/4-Inch (0.250\") Mild Steel Plate CNC Plasma Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for 1/4-Inch (0.250\") Mild Steel Plate CNC Plasma Cut Settings.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-14"
   }
 ]
