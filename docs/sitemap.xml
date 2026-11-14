@@ -132,4 +132,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/38-inch-0375-structural-steel-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/12-inch-0500-heavy-steel-plate-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/58-inch-0625-steel-plate-max-cnc-pierce-edge-start-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

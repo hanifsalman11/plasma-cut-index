@@ -229,5 +229,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "3/8-Inch (0.375\") Structural Steel CNC Plasma Cut Settings",
+    "slug": "38-inch-0375-structural-steel-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "3/8-Inch (0.375\") Structural Steel CNC Plasma Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for 3/8-Inch (0.375\") Structural Steel CNC Plasma Cut Settings.",
+    "amps": 60,
+    "ipm": 58,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "1/2-Inch (0.500\") Heavy Steel Plate CNC Plasma Cut Settings",
+    "slug": "12-inch-0500-heavy-steel-plate-cnc-plasma-cut-settings-ipm-kerf-pierce-calculator",
+    "title": "1/2-Inch (0.500\") Heavy Steel Plate CNC Plasma Cut Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (46 IPM @ 65A), pierce delay (0.65s), kerf width (0.075\"), THC voltage (136V), 6.7 SCFM air dryer, and 240V 50A breaker for 1/2-Inch (0.500\") Heavy Steel Plate CNC Plasma Cut Settings.",
+    "amps": 65,
+    "ipm": 46,
+    "pierce": 0.65,
+    "kerf": 0.075,
+    "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "5/8-Inch (0.625\") Steel Plate Max CNC Pierce & Edge Start",
+    "slug": "58-inch-0625-steel-plate-max-cnc-pierce-edge-start-ipm-kerf-pierce-calculator",
+    "title": "5/8-Inch (0.625\") Steel Plate Max CNC Pierce & Edge Start Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (42 IPM @ 85A), pierce delay (0.8s), kerf width (0.084\"), THC voltage (142V), 6.7 SCFM air dryer, and 240V 60A breaker for 5/8-Inch (0.625\") Steel Plate Max CNC Pierce & Edge Start.",
+    "amps": 85,
+    "ipm": 42,
+    "pierce": 0.8,
+    "kerf": 0.084,
+    "date": "2026-11-14"
   }
 ]
