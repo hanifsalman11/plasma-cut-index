@@ -328,5 +328,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "Plasma Cutter Cut",
+    "slug": "plasma-cutter-cut-ipm-kerf-pierce-calculator",
+    "title": "Plasma Cutter Cut Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Plasma Cutter Cut.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "Plasma Table Cut",
+    "slug": "plasma-table-cut-ipm-kerf-pierce-calculator",
+    "title": "Plasma Table Cut Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Plasma Table Cut.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "Everlast Plasma Cutter Cut",
+    "slug": "everlast-plasma-cutter-cut-ipm-kerf-pierce-calculator",
+    "title": "Everlast Plasma Cutter Cut Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Everlast Plasma Cutter Cut.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-15"
   }
 ]
