@@ -295,5 +295,38 @@
     "pierce": 0.35,
     "kerf": 0.065,
     "date": "2026-11-14"
+  },
+  {
+    "plasma_name": "4-Stage Desiccant Air Dryer CFM & 0.01-Micron Filter Sizing",
+    "slug": "4-stage-desiccant-air-dryer-cfm-001-micron-filter-sizing-ipm-kerf-pierce-calculator",
+    "title": "4-Stage Desiccant Air Dryer CFM & 0.01-Micron Filter Sizing Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for 4-Stage Desiccant Air Dryer CFM & 0.01-Micron Filter Sizing.",
+    "amps": 60,
+    "ipm": 58,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "NEC Article 630 Plasma Cutter Duty-Cycle Breaker & Wire AWG",
+    "slug": "nec-article-630-plasma-cutter-duty-cycle-breaker-wire-awg-ipm-kerf-pierce-calculator",
+    "title": "NEC Article 630 Plasma Cutter Duty-Cycle Breaker & Wire AWG Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (58 IPM @ 60A), pierce delay (0.5s), kerf width (0.068\"), THC voltage (130V), 6.7 SCFM air dryer, and 240V 50A breaker for NEC Article 630 Plasma Cutter Duty-Cycle Breaker & Wire AWG.",
+    "amps": 60,
+    "ipm": 58,
+    "pierce": 0.5,
+    "kerf": 0.068,
+    "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "CNC Plasma Water Table Volume & Anti-Rust Nitrite/Green Ratio",
+    "slug": "cnc-plasma-water-table-volume-anti-rust-nitritegreen-ratio-ipm-kerf-pierce-calculator",
+    "title": "CNC Plasma Water Table Volume & Anti-Rust Nitrite/Green Ratio Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 60A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.7 SCFM air dryer, and 240V 50A breaker for CNC Plasma Water Table Volume & Anti-Rust Nitrite/Green Ratio.",
+    "amps": 60,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-15"
   }
 ]
