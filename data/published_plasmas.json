@@ -361,5 +361,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-15"
+  },
+  {
+    "plasma_name": "Hypertherm Plasma Cutter Cut",
+    "slug": "hypertherm-plasma-cutter-cut-ipm-kerf-pierce-calculator",
+    "title": "Hypertherm Plasma Cutter Cut Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Hypertherm Plasma Cutter Cut.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-16"
+  },
+  {
+    "plasma_name": "Plasma Cutter Cutting Thickness",
+    "slug": "plasma-cutter-cutting-thickness-ipm-kerf-pierce-calculator",
+    "title": "Plasma Cutter Cutting Thickness Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Plasma Cutter Cutting Thickness.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-16"
+  },
+  {
+    "plasma_name": "Cut 50 Plasma Cutter Settings",
+    "slug": "cut-50-plasma-cutter-settings-ipm-kerf-pierce-calculator",
+    "title": "Cut 50 Plasma Cutter Settings Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 50A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for Cut 50 Plasma Cutter Settings.",
+    "amps": 50,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-16"
   }
 ]
