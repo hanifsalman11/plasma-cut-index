@@ -493,5 +493,38 @@
     "pierce": 0.08,
     "kerf": 0.044,
     "date": "2026-11-17"
+  },
+  {
+    "plasma_name": "18-Gauge (0.048\") 304 Stainless Steel on 65A CNC Plasma",
+    "slug": "18-gauge-0048-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "18-Gauge (0.048\") 304 Stainless Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (276 IPM @ 65A), pierce delay (0.08s), kerf width (0.044\"), THC voltage (114V), 6.7 SCFM air dryer, and 240V 50A breaker for 18-Gauge (0.048\") 304 Stainless Steel on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 276,
+    "pierce": 0.08,
+    "kerf": 0.044,
+    "date": "2026-11-18"
+  },
+  {
+    "plasma_name": "18-Gauge (0.048\") 5052 / 6061 Aluminum on 45A CNC Plasma",
+    "slug": "18-gauge-0048-5052-6061-aluminum-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "18-Gauge (0.048\") 5052 / 6061 Aluminum on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (274 IPM @ 45A), pierce delay (0.08s), kerf width (0.044\"), THC voltage (114V), 6.0 SCFM air dryer, and 240V 30A breaker for 18-Gauge (0.048\") 5052 / 6061 Aluminum on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 274,
+    "pierce": 0.08,
+    "kerf": 0.044,
+    "date": "2026-11-18"
+  },
+  {
+    "plasma_name": "18-Gauge (0.048\") 5052 / 6061 Aluminum on 60A CNC Plasma",
+    "slug": "18-gauge-0048-5052-6061-aluminum-on-60a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "18-Gauge (0.048\") 5052 / 6061 Aluminum on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (366 IPM @ 60A), pierce delay (0.08s), kerf width (0.044\"), THC voltage (114V), 6.7 SCFM air dryer, and 240V 50A breaker for 18-Gauge (0.048\") 5052 / 6061 Aluminum on 60A CNC Plasma.",
+    "amps": 60,
+    "ipm": 366,
+    "pierce": 0.08,
+    "kerf": 0.044,
+    "date": "2026-11-18"
   }
 ]
