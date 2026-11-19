@@ -559,5 +559,38 @@
     "pierce": 0.1,
     "kerf": 0.046,
     "date": "2026-11-18"
+  },
+  {
+    "plasma_name": "16-Gauge (0.060\") A36 Mild Steel on 65A CNC Plasma",
+    "slug": "16-gauge-0060-a36-mild-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "16-Gauge (0.060\") A36 Mild Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (289 IPM @ 65A), pierce delay (0.1s), kerf width (0.046\"), THC voltage (115V), 6.7 SCFM air dryer, and 240V 50A breaker for 16-Gauge (0.060\") A36 Mild Steel on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 289,
+    "pierce": 0.1,
+    "kerf": 0.046,
+    "date": "2026-11-19"
+  },
+  {
+    "plasma_name": "16-Gauge (0.060\") 304 Stainless Steel on 45A CNC Plasma",
+    "slug": "16-gauge-0060-304-stainless-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "16-Gauge (0.060\") 304 Stainless Steel on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (170 IPM @ 45A), pierce delay (0.1s), kerf width (0.046\"), THC voltage (115V), 6.0 SCFM air dryer, and 240V 30A breaker for 16-Gauge (0.060\") 304 Stainless Steel on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 170,
+    "pierce": 0.1,
+    "kerf": 0.046,
+    "date": "2026-11-19"
+  },
+  {
+    "plasma_name": "16-Gauge (0.060\") 304 Stainless Steel on 60A CNC Plasma",
+    "slug": "16-gauge-0060-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "16-Gauge (0.060\") 304 Stainless Steel on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (227 IPM @ 60A), pierce delay (0.1s), kerf width (0.046\"), THC voltage (115V), 6.7 SCFM air dryer, and 240V 50A breaker for 16-Gauge (0.060\") 304 Stainless Steel on 60A CNC Plasma.",
+    "amps": 60,
+    "ipm": 227,
+    "pierce": 0.1,
+    "kerf": 0.046,
+    "date": "2026-11-19"
   }
 ]
