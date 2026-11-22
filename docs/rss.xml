@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/plasma-cut-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>12-Gauge (0.105") 5052 / 6061 Aluminum on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-5052-6061-aluminum-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-5052-6061-aluminum-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (244 IPM @ 60A), pierce delay (0.2s), kerf width (0.055"), THC voltage (117V), 6.7 SCFM air dryer, and 240V 50A breaker for 12-Gauge (0.105") 5052 / 6061 Aluminum on 60A CNC Plasma.</description>
+    </item>
+    <item>
+      <title>12-Gauge (0.105") 5052 / 6061 Aluminum on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-5052-6061-aluminum-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-5052-6061-aluminum-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (183 IPM @ 45A), pierce delay (0.2s), kerf width (0.055"), THC voltage (117V), 6.0 SCFM air dryer, and 240V 30A breaker for 12-Gauge (0.105") 5052 / 6061 Aluminum on 45A CNC Plasma.</description>
+    </item>
+    <item>
+      <title>12-Gauge (0.105") 304 Stainless Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
+      <description>Calculate exact CNC plasma cut speed (184 IPM @ 65A), pierce delay (0.2s), kerf width (0.055"), THC voltage (117V), 6.7 SCFM air dryer, and 240V 50A breaker for 12-Gauge (0.105") 304 Stainless Steel on 65A CNC Plasma.</description>
+    </item>
+    <item>
       <title>12-Gauge (0.105") 304 Stainless Steel on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/12-gauge-0105-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
       <guid>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
       <description>Calculate exact CNC plasma cut speed (276 IPM @ 65A), pierce delay (0.08s), kerf width (0.044"), THC voltage (114V), 6.7 SCFM air dryer, and 240V 50A breaker for 18-Gauge (0.048") 304 Stainless Steel on 65A CNC Plasma.</description>
-    </item>
-    <item>
-      <title>18-Gauge (0.048") 304 Stainless Steel on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
-      <description>Calculate exact CNC plasma cut speed (255 IPM @ 60A), pierce delay (0.08s), kerf width (0.044"), THC voltage (114V), 6.7 SCFM air dryer, and 240V 50A breaker for 18-Gauge (0.048") 304 Stainless Steel on 60A CNC Plasma.</description>
-    </item>
-    <item>
-      <title>18-Gauge (0.048") 304 Stainless Steel on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-304-stainless-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
-      <description>Calculate exact CNC plasma cut speed (191 IPM @ 45A), pierce delay (0.08s), kerf width (0.044"), THC voltage (114V), 6.0 SCFM air dryer, and 240V 30A breaker for 18-Gauge (0.048") 304 Stainless Steel on 45A CNC Plasma.</description>
-    </item>
-    <item>
-      <title>18-Gauge (0.048") A36 Mild Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-a36-mild-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/plasma-cut-index/18-gauge-0048-a36-mild-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</guid>
-      <description>Calculate exact CNC plasma cut speed (325 IPM @ 65A), pierce delay (0.08s), kerf width (0.044"), THC voltage (114V), 6.7 SCFM air dryer, and 240V 50A breaker for 18-Gauge (0.048") A36 Mild Steel on 65A CNC Plasma.</description>
     </item>
   </channel>
 </rss>
