@@ -823,5 +823,38 @@
     "pierce": 0.2,
     "kerf": 0.055,
     "date": "2026-11-22"
+  },
+  {
+    "plasma_name": "12-Gauge (0.105\") 5052 / 6061 Aluminum on 65A CNC Plasma",
+    "slug": "12-gauge-0105-5052-6061-aluminum-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "12-Gauge (0.105\") 5052 / 6061 Aluminum on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (264 IPM @ 65A), pierce delay (0.2s), kerf width (0.055\"), THC voltage (117V), 6.7 SCFM air dryer, and 240V 50A breaker for 12-Gauge (0.105\") 5052 / 6061 Aluminum on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 264,
+    "pierce": 0.2,
+    "kerf": 0.055,
+    "date": "2026-11-23"
+  },
+  {
+    "plasma_name": "10-Gauge (0.135\") A36 Mild Steel on 45A CNC Plasma",
+    "slug": "10-gauge-0135-a36-mild-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "10-Gauge (0.135\") A36 Mild Steel on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (125 IPM @ 45A), pierce delay (0.25s), kerf width (0.058\"), THC voltage (118V), 6.0 SCFM air dryer, and 240V 30A breaker for 10-Gauge (0.135\") A36 Mild Steel on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 125,
+    "pierce": 0.25,
+    "kerf": 0.058,
+    "date": "2026-11-23"
+  },
+  {
+    "plasma_name": "10-Gauge (0.135\") A36 Mild Steel on 60A CNC Plasma",
+    "slug": "10-gauge-0135-a36-mild-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "10-Gauge (0.135\") A36 Mild Steel on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (167 IPM @ 60A), pierce delay (0.25s), kerf width (0.058\"), THC voltage (118V), 6.7 SCFM air dryer, and 240V 50A breaker for 10-Gauge (0.135\") A36 Mild Steel on 60A CNC Plasma.",
+    "amps": 60,
+    "ipm": 167,
+    "pierce": 0.25,
+    "kerf": 0.058,
+    "date": "2026-11-23"
   }
 ]
