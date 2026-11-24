@@ -510,4 +510,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/10-gauge-0135-5052-6061-aluminum-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/316-inch-0188-a36-mild-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/316-inch-0188-a36-mild-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
