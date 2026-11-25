@@ -988,5 +988,38 @@
     "pierce": 0.3,
     "kerf": 0.06,
     "date": "2026-11-25"
+  },
+  {
+    "plasma_name": "3/16-Inch (0.188\") 304 Stainless Steel on 65A CNC Plasma",
+    "slug": "316-inch-0188-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "3/16-Inch (0.188\") 304 Stainless Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (117 IPM @ 65A), pierce delay (0.3s), kerf width (0.06\"), THC voltage (121V), 6.7 SCFM air dryer, and 240V 50A breaker for 3/16-Inch (0.188\") 304 Stainless Steel on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 117,
+    "pierce": 0.3,
+    "kerf": 0.06,
+    "date": "2026-11-25"
+  },
+  {
+    "plasma_name": "3/16-Inch (0.188\") 5052 / 6061 Aluminum on 45A CNC Plasma",
+    "slug": "316-inch-0188-5052-6061-aluminum-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "3/16-Inch (0.188\") 5052 / 6061 Aluminum on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (116 IPM @ 45A), pierce delay (0.3s), kerf width (0.06\"), THC voltage (121V), 6.0 SCFM air dryer, and 240V 30A breaker for 3/16-Inch (0.188\") 5052 / 6061 Aluminum on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 116,
+    "pierce": 0.3,
+    "kerf": 0.06,
+    "date": "2026-11-25"
+  },
+  {
+    "plasma_name": "3/16-Inch (0.188\") 5052 / 6061 Aluminum on 60A CNC Plasma",
+    "slug": "316-inch-0188-5052-6061-aluminum-on-60a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "3/16-Inch (0.188\") 5052 / 6061 Aluminum on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (155 IPM @ 60A), pierce delay (0.3s), kerf width (0.06\"), THC voltage (121V), 6.7 SCFM air dryer, and 240V 50A breaker for 3/16-Inch (0.188\") 5052 / 6061 Aluminum on 60A CNC Plasma.",
+    "amps": 60,
+    "ipm": 155,
+    "pierce": 0.3,
+    "kerf": 0.06,
+    "date": "2026-11-25"
   }
 ]
