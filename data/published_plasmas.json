@@ -1054,5 +1054,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-26"
+  },
+  {
+    "plasma_name": "How Fast Does A Plasma Cutter Cut",
+    "slug": "how-fast-does-a-plasma-cutter-cut-ipm-kerf-pierce-calculator",
+    "title": "How Fast Does A Plasma Cutter Cut Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (72 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 40A breaker for How Fast Does A Plasma Cutter Cut.",
+    "amps": 45,
+    "ipm": 72,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-26"
+  },
+  {
+    "plasma_name": "1/4-Inch (0.250\") A36 Mild Steel on 65A CNC Plasma",
+    "slug": "14-inch-0250-a36-mild-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "1/4-Inch (0.250\") A36 Mild Steel on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (104 IPM @ 65A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.7 SCFM air dryer, and 240V 50A breaker for 1/4-Inch (0.250\") A36 Mild Steel on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 104,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-26"
+  },
+  {
+    "plasma_name": "1/4-Inch (0.250\") 304 Stainless Steel on 45A CNC Plasma",
+    "slug": "14-inch-0250-304-stainless-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "1/4-Inch (0.250\") 304 Stainless Steel on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (61 IPM @ 45A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.0 SCFM air dryer, and 240V 30A breaker for 1/4-Inch (0.250\") 304 Stainless Steel on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 61,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-26"
   }
 ]
