@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -597,6 +597,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/plasma-cut-index/14-inch-0250-304-stainless-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
     <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/14-inch-0250-304-stainless-steel-on-60a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/14-inch-0250-304-stainless-steel-on-65a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/plasma-cut-index/14-inch-0250-5052-6061-aluminum-on-45a-cnc-plasma-ipm-kerf-pierce-calculator.html</loc>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
