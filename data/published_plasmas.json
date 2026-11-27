@@ -1120,5 +1120,38 @@
     "pierce": 0.4,
     "kerf": 0.062,
     "date": "2026-11-27"
+  },
+  {
+    "plasma_name": "1/4-Inch (0.250\") 5052 / 6061 Aluminum on 60A CNC Plasma",
+    "slug": "14-inch-0250-5052-6061-aluminum-on-60a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "1/4-Inch (0.250\") 5052 / 6061 Aluminum on 60A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (117 IPM @ 60A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.7 SCFM air dryer, and 240V 50A breaker for 1/4-Inch (0.250\") 5052 / 6061 Aluminum on 60A CNC Plasma.",
+    "amps": 60,
+    "ipm": 117,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-27"
+  },
+  {
+    "plasma_name": "1/4-Inch (0.250\") 5052 / 6061 Aluminum on 65A CNC Plasma",
+    "slug": "14-inch-0250-5052-6061-aluminum-on-65a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "1/4-Inch (0.250\") 5052 / 6061 Aluminum on 65A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (127 IPM @ 65A), pierce delay (0.4s), kerf width (0.062\"), THC voltage (124V), 6.7 SCFM air dryer, and 240V 50A breaker for 1/4-Inch (0.250\") 5052 / 6061 Aluminum on 65A CNC Plasma.",
+    "amps": 65,
+    "ipm": 127,
+    "pierce": 0.4,
+    "kerf": 0.062,
+    "date": "2026-11-27"
+  },
+  {
+    "plasma_name": "5/16-Inch (0.312\") A36 Mild Steel on 45A CNC Plasma",
+    "slug": "516-inch-0312-a36-mild-steel-on-45a-cnc-plasma-ipm-kerf-pierce-calculator",
+    "title": "5/16-Inch (0.312\") A36 Mild Steel on 45A CNC Plasma Cut Speed (IPM), Kerf, Pierce & Breaker Calculator (2026)",
+    "description": "Calculate exact CNC plasma cut speed (62 IPM @ 45A), pierce delay (0.45s), kerf width (0.065\"), THC voltage (127V), 6.0 SCFM air dryer, and 240V 30A breaker for 5/16-Inch (0.312\") A36 Mild Steel on 45A CNC Plasma.",
+    "amps": 45,
+    "ipm": 62,
+    "pierce": 0.45,
+    "kerf": 0.065,
+    "date": "2026-11-27"
   }
 ]
